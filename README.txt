@@ -1,0 +1,1 @@
+A casino banking game is blackjack. It derives from a global family of casino banking games known as Twenty-One and is the most popular casino game in the world, using 52-card decks. Players in blackjack do not compete with one another. Each player battles against the dealer in this comparative card game.
